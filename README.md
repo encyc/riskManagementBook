@@ -92,6 +92,9 @@
 - 波士顿矩阵分析工具（数据自动，四象限彩色标注）
 - Article_209_APP特征字典样例
 
+### AI
+- https://github.com/Shubhamsaboo/awesome-llm-apps
+
 ## 🚀 快速开始
 
 1. 根据你的兴趣领域选择相应的资料分类
