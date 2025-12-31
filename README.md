@@ -75,6 +75,7 @@
 - 实操--埋点特征的衍生开发
 - R语言实战（机器学习与数据分析）
 - StatisticsMachineLearningPython
+- [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books "免费多语言编程学习资源合集")
 
 ### 📋 产品管理
 
@@ -92,9 +93,9 @@
 - 波士顿矩阵分析工具（数据自动，四象限彩色标注）
 - Article_209_APP特征字典样例
 
-### AI
-- https://github.com/Shubhamsaboo/awesome-llm-apps
-
+### 🤖 AI
+- [Awesome LLM Apps (优质大语言模型应用合集)](https://github.com/Shubhamsaboo/awesome-llm-apps "优质大语言模型应用合集")
+- 
 ## 🚀 快速开始
 
 1. 根据你的兴趣领域选择相应的资料分类
