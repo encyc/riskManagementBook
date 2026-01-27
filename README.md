@@ -76,6 +76,7 @@
 - R语言实战（机器学习与数据分析）
 - StatisticsMachineLearningPython
 - [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books "免费多语言编程学习资源合集")
+- [Think Stats](https://github.com/AllenDowney/ThinkStats "写给程序员的统计学电子书，所有代码示例和练习均以 Python 实现")
 
 ### 📋 产品管理
 
@@ -95,7 +96,8 @@
 
 ### 🤖 AI
 - [Awesome LLM Apps (优质大语言模型应用合集)](https://github.com/Shubhamsaboo/awesome-llm-apps "优质大语言模型应用合集")
-- 
+- [Harvard AI CS249r](https://github.com/harvard-edge/cs249r_book?tab=readme-ov-file "哈佛大学开源的 AI 系统工程（CS249r）课程教材，内含书籍和源码")
+
 ## 🚀 快速开始
 
 1. 根据你的兴趣领域选择相应的资料分类
