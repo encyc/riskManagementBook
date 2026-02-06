@@ -117,4 +117,6 @@
 如果你有优质的风控资料推荐，欢迎提交Issue或PR。
 
 
-[![Star History Chart](https://www.star-history.com/#encyc/riskManagementBook&type=date&legend=top-left)]
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=encyc/riskManagementBook&type=date&legend=top-left)](https://www.star-history.com/#encyc/riskManagementBook&type=date&legend=top-left)
