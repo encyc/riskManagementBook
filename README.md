@@ -4,7 +4,7 @@
 
 ## 厚脸皮打个广告
 
-欢迎使用本人写的[Yihuier - Agent时代的建模工具包](github.com/encyc/yihuier)
+欢迎使用本人写的[Yihuier - Agent时代的建模工具包](https://github.com/encyc/yihuier)
 - 可以直接`pip install yihuier`
 - 配合仓库内的专属skill，可以让你的Agent工具直接调用yihuier，体验vibe modeling。
 
