@@ -2,6 +2,12 @@
 
 本仓库整理了互联网金融风控相关的学习资料，涵盖评分建模、反欺诈、用户画像、数据治理等多个领域。
 
+## 厚脸皮打个广告
+
+欢迎使用本人写的[Yihuier - Agent时代的建模工具包](github.com/encyc/yihuier)
+- 可以直接`pip install yihuier`
+- 配合仓库内的专属skill，可以让你的Agent工具直接调用yihuier，体验vibe modeling。
+
 ## 📚 资料分类
 
 ### 📖 读书笔记
@@ -115,7 +121,6 @@
 ## 🤝 贡献
 
 如果你有优质的风控资料推荐，欢迎提交Issue或PR。
-
 
 ## Star History
 
